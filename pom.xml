@@ -5,4 +5,14 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>JAVA8</name>
   <description>Java 8 Features</description>
+
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.13.2</version>
+    </dependency>
+
+  </dependencies>
+
 </project>
